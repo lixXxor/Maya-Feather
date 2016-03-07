@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Text fält</string>
+    <string name="button_send">KNAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="lång_text">"ett text fält som \nklarar \nav \nflera rader \noch använder det skärmutrymme som	\n\nfinns"</string>
+</resources>

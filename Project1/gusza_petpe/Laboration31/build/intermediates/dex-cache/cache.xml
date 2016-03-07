@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Program\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-bd81e6678327c5fdb389b9cbdd1b0c04d772569f.jar" />
+    </item>
+    <item
+        jar="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-466f932905a8befd2a2dfbd2a2c33b74dc66ce97.jar" />
+    </item>
+    <item
+        jar="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\pre-dexed\debug\classes-a94b2475f02baf78f7f5fcb6a3139076e33d41f3.jar" />
+    </item>
+    <item
+        jar="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration31\app\build\intermediates\pre-dexed\debug\classes-bf35eb9423e8e1fe8e8e55281e70f6c45b3d8e19.jar" />
+    </item>
+
+</items>

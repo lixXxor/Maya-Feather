@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:paddingTop="20dp"
+        android:orientation="vertical" >
+        
+ 		<TextView
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="20sp"
+	        android:text="Namn" />
+	 		
+        <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="20dp"
+	        android:textSize="20sp"
+	        android:text="Lösenord" />
+	 		
+        <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="20dp"
+	        android:textSize="20sp"
+	        android:text="Epost" />
+	 		
+        <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:paddingTop="20dp"
+	        android:textSize="20sp"
+	        android:text="Ålder" />
+	 		
+        
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:paddingTop="20dp"
+        android:orientation="vertical" >
+        
+    	<TextView
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:text="Anders"
+    	    android:textColor="#000"
+    	    android:textSize="20sp" />
+    	
+   		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1dip"
+			android:background="#000000" />
+	   		
+   		<TextView
+   		    android:layout_width="wrap_content"
+   		    android:layout_height="wrap_content"
+   		    android:paddingTop="20dp"
+   		    android:text="•••••••"
+   		    android:textColor="#000"
+   		    android:textSize="20sp" />
+   		
+   		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1dip"
+			android:background="#000000" />
+	   		
+   		<TextView
+   		    android:layout_width="wrap_content"
+   		    android:layout_height="wrap_content"
+   		    android:paddingTop="20dp"
+   		    android:text="anders.froberg@liu.se"
+   		    android:textColor="#000"
+   		    android:textSize="20sp" />
+
+   		<ProgressBar
+   		    android:id="@+id/progressBar1"
+   		    style="?android:attr/progressBarStyleHorizontal"
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content"
+   		    android:progress="100" />
+
+   		<SeekBar
+   		    android:id="@+id/seekBar1"
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content" 
+   		    android:progress="30"/>
+  
+        
+    </LinearLayout>
+
+</LinearLayout>

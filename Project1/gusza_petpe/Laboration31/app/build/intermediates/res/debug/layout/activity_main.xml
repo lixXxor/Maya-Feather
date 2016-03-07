@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+     
+    <!-- InteractiveSearch for Search -->
+    <com.laboration3.InteractiveSearch
+        android:id="@+id/inputSearch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Search name..."
+        android:inputType="textVisiblePassword"/>
+  
+    <!-- List View -->
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+  
+</LinearLayout><!-- From: file:/E:/Skydrive/Skola/TNCG13%20-%20SFX/Maya-Featherizer/Project1/gusza_petpe/Laboration31/app/src/main/res/layout/activity_main.xml -->

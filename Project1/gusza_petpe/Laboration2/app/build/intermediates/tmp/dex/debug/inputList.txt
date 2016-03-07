@@ -1,0 +1,5 @@
+E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration2\app\build\intermediates\classes\debug
+E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-bd81e6678327c5fdb389b9cbdd1b0c04d772569f.jar
+E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a08ef819d9f0da25d7f55fc01a84c33d3be88faf.jar
+E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration2\app\build\intermediates\pre-dexed\debug\classes-a47fc611c51f53e0454b131c9229809146dadc29.jar
+E:\Skydrive\Skola\TNCG13 - SFX\Maya-Featherizer\Project1\gusza_petpe\Laboration2\app\build\intermediates\pre-dexed\debug\classes-dc9135e78fb71dbbcab40e4aa2a594fa4ab70857.jar
